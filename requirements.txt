@@ -1,6 +1,4 @@
 streamlit
 pandas
-google-generativeai
-numpy
-plotly.express
+nump
 model
