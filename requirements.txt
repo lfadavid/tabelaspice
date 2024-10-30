@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-generativeai
+numpy
+plotly.express
+model
